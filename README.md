@@ -1,4 +1,6 @@
-# Higgs-Decay-Chain-and-BackScattering
+# Higgs-Decay-Chain-and-BackScattering (C++)
 Composite pattern application to follow the decay chains for the Higgs boson.
-![alt text](https://github.com/[MarcoDeTommasi]/[Higgs-Decay-Chain-and-BackScattering]/blob/[main]/Higgs.jpg?raw=true)
+![Higgs](https://user-images.githubusercontent.com/79840407/174474642-118bde6e-df8a-4f4e-bec9-9215e23a1e4e.png)
+
+## Back Scattering (Python)
 
